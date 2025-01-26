@@ -1,0 +1,52 @@
+[
+    {
+        "name": "CN Tower",
+        "description": "Iconic 553.3m-high tower with panoramic views, revolving restaurant, and glass floor observation deck",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Toronto_-_ON_-_Toronto_Harbourfront7.jpg"
+    },
+    {
+        "name": "Casa Loma",
+        "description": "Gothic Revival style mansion and garden built in the early 20th century, now a museum and landmark",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Casa_Loma_May_2012.jpg"
+    },
+    {
+        "name": "Royal Ontario Museum",
+        "description": "Museum of art, world culture and natural history, featuring diverse collections and exhibits",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Royal_Ontario_Museum_1_%285795713258%29.jpg"
+    },
+    {
+        "name": "Art Gallery of Ontario",
+        "description": "Major art museum with a collection of more than 90,000 works spanning from 100 AD to present",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/AGO_at_night.jpg"
+    },
+    {
+        "name": "Distillery District",
+        "description": "Historic and entertainment precinct with Victorian architecture, shops, restaurants, and galleries",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Distillery_district.jpg"
+    },
+    {
+        "name": "St. Lawrence Market",
+        "description": "Historic market complex featuring food vendors, restaurants, and artisanal products",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/8/84/St_Lawrence_Market.jpg"
+    },
+    {
+        "name": "Toronto Zoo",
+        "description": "Large zoo with over 5,000 animals from around the world, including pandas and polar bears",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Toronto_Zoo_Entrance.jpg"
+    },
+    {
+        "name": "Ripley's Aquarium of Canada",
+        "description": "Modern aquarium featuring 16,000 aquatic animals and interactive exhibits",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ripley%27s_Aquarium_of_Canada_4_%2815574492519%29.jpg"
+    },
+    {
+        "name": "High Park",
+        "description": "Large urban park with diverse vegetation, recreational facilities, and a small zoo",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/High_Park%2C_Toronto_-_panoramio.jpg"
+    },
+    {
+        "name": "Hockey Hall of Fame",
+        "description": "Museum dedicated to the history of ice hockey, featuring exhibits and memorabilia",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Hockey_Hall_of_Fame%2C_Toronto.jpg"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Sydney Opera House",
+        "description": "Iconic performing arts venue with distinctive sail-like design, a UNESCO World Heritage site",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sydney_Opera_House_-_Dec_2008.jpg/1280px-Sydney_Opera_House_-_Dec_2008.jpg"
+    },
+    {
+        "name": "Sydney Harbour Bridge",
+        "description": "Massive steel arch bridge nicknamed 'The Coathanger', offering bridge climbs and panoramic views",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sydney_harbour_bridge_new_south_wales.jpg/1280px-Sydney_harbour_bridge_new_south_wales.jpg"
+    },
+    {
+        "name": "Bondi Beach",
+        "description": "Famous crescent-shaped beach known for surfing, sunbathing, and the Bondi Icebergs ocean pool",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bondi_Beach_Sydney_Australia.jpg/1280px-Bondi_Beach_Sydney_Australia.jpg"
+    },
+    {
+        "name": "Taronga Zoo",
+        "description": "Harbourside zoo featuring native Australian wildlife and exotic species with scenic city views",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Taronga_Zoo_Sydney_skyline.jpg/1280px-Taronga_Zoo_Sydney_skyline.jpg"
+    },
+    {
+        "name": "Royal Botanic Garden",
+        "description": "Expansive gardens showcasing native and exotic flora, with harbor views and guided tours",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Royal_Botanic_Gardens%2C_Sydney.jpg/1280px-Royal_Botanic_Gardens%2C_Sydney.jpg"
+    }
+]

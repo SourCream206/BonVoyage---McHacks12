@@ -1,0 +1,52 @@
+[
+    {
+        "name": "The Great Wall of China",
+        "description": "Ancient fortification stretching over 13,000 miles, with the Mutianyu section being a popular, less crowded option for visitors.",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/20090529_Great_Wall_8185.jpg/1280px-20090529_Great_Wall_8185.jpg"
+    },
+    {
+        "name": "Forbidden City",
+        "description": "Imperial palace complex with 9,999 rooms, showcasing Chinese architecture and housing the Palace Museum.",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Forbidden_City_Beijing_Shenwumen_Gate.jpg/1280px-Forbidden_City_Beijing_Shenwumen_Gate.jpg"
+    },
+    {
+        "name": "Temple of Heaven",
+        "description": "Ming Dynasty complex of religious buildings used for annual ceremonies of prayer for good harvest.",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Temple_of_Heaven_3.jpg/1280px-Temple_of_Heaven_3.jpg"
+    },
+    {
+        "name": "Summer Palace",
+        "description": "Vast ensemble of lakes, gardens, and palaces, serving as an imperial garden in the Qing Dynasty.",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Summer_Palace_Beijing_long_corridor.jpg/1280px-Summer_Palace_Beijing_long_corridor.jpg"
+    },
+    {
+        "name": "Tiananmen Square",
+        "description": "Large city square in the center of Beijing, named after the Tiananmen ('Gate of Heavenly Peace') located to its north.",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Tiananmen_Square_from_the_Gate_of_Heavenly_Peace.jpg/1280px-Tiananmen_Square_from_the_Gate_of_Heavenly_Peace.jpg"
+    },
+    {
+        "name": "Beijing Olympic Park",
+        "description": "Site of the 2008 Summer Olympics, featuring iconic structures like the Bird's Nest stadium and Water Cube aquatics center.",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Beijing_national_stadium.jpg/1280px-Beijing_national_stadium.jpg"
+    },
+    {
+        "name": "Lama Temple",
+        "description": "Significant Tibetan Buddhist temple with five main halls and beautiful artworks.",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Yonghe_Temple_2.jpg/1280px-Yonghe_Temple_2.jpg"
+    },
+    {
+        "name": "Hutongs",
+        "description": "Narrow alleys lined with traditional courtyard residences, offering a glimpse into old Beijing life.",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hutong_in_Beijing.jpg/1280px-Hutong_in_Beijing.jpg"
+    },
+    {
+        "name": "798 Art Zone",
+        "description": "Thriving art district housed in a complex of former military factory buildings, featuring galleries, cafes, and street art.",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/798_Art_Zone_Beijing.jpg/1280px-798_Art_Zone_Beijing.jpg"
+    },
+    {
+        "name": "Beihai Park",
+        "description": "Imperial garden with a large lake, ancient temples, and the White Dagoba on Qionghua Island.",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Beihai_Park_Beijing_China.jpg/1280px-Beihai_Park_Beijing_China.jpg"
+    }
+]
