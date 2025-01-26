@@ -1,0 +1,17 @@
+/* Apply background color to the entire page */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #1a1a2e; /* Dark blue */
+    color: white; /* Text color for readability */
+    font-family: 'Arial', sans-serif; /* Optional font style */
+  }
+  
+  /* If you want a gradient background */
+  body {
+    background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460);
+    background-size: 400% 400%;
+    animation: gradientAnimation 10s ease infinite;
+    color: white;
+  }
+  
