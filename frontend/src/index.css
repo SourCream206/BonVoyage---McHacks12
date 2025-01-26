@@ -1,0 +1,148 @@
+@import "tailwindcss";
+@plugin "tailwindcss-motion";
+@plugin "tailwindcss-animate";
+
+@layer utilities {
+  .text-in {
+    @apply motion-translate-x-in-[198%] motion-translate-y-in-[12%] motion-opacity-in-[0%] motion-blur-in-[100px] motion-duration-[1.5s];
+  }
+  .card-in {
+    @apply motion-scale-in-[0.1] motion-translate-x-in-[142%] motion-translate-y-in-[118%] motion-opacity-in-[0%] motion-rotate-in-[40deg] motion-blur-in-[10px] motion-duration-[3.00s] motion-duration-[1.41s]/scale motion-duration-[2.70s]/rotate motion-duration-[1.23s]/blur
+  }
+}
+
+button, a {
+  cursor: pointer;
+}
+
+.close-button {
+  z-index: top;
+  top: 20px;
+  right: 20px;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #777;
+  transition: color 0.3s;
+}
+
+.close-button:hover {
+  color: #333;
+  @apply motion-preset-shake;
+}
+
+/* Ensure full-height layout for the screen */
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Layout container: Flexbox for side-by-side panels */
+.flex {
+  display: flex;
+  height: 100vh; /* Full viewport height */
+}
+
+/* Left panel (list of places) */
+.left-panel {
+  width: 350px; /* Fixed width for the left panel */
+  background-color: #2d3748; /* Dark gray background */
+  color: white;
+  padding: 20px;
+  overflow-y: auto; /* Scroll if the content is long */
+  border-right: 2px solid #ccc; /* Light gray border between panels */
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.left-panel h1 {
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Make the list items more interactive */
+.left-panel ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.left-panel ul li {
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.left-panel ul li:hover {
+  background-color: #4a90e2; /* Blue on hover */
+}
+
+/* Right panel (info box) */
+.right-panel {
+  @apply fade-in-1000;
+  background-color: #bfcad5;
+  padding: 20px;
+  position: static;
+  max-width:fit-content;
+  display: flex;
+  flex-direction: column;
+}
+
+.right-panel h2 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.right-panel .info-content {
+  display: flex;
+  gap: 20px;
+}
+
+/* Right panel image adjustments */
+.right-panel .info-content {
+  background-color: #ffffff;
+  @apply fade-in-1000;
+  background-color: #bfcad5;
+  padding: 20px;
+  position: relative;
+  display: flex;
+}
+
+.right-panel .info-content .description {
+  width: 60%; /* Description takes up 60% of the container */
+  color: #333;
+  font-size: 1.1rem;
+}
+
+.search-box {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.search-box input {
+  padding: 8px;
+  width: 150px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.search-box button {
+  background-color: #4a90e2;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  color: white;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.search-box button:hover {
+  background-color: #357ab7;
+}
