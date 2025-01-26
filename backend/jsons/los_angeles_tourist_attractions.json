@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Griffith Observatory",
+        "description": "Iconic hilltop landmark offering stunning city views, planetarium shows, and public telescopes",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Griffith_observatory_2006.jpg"
+    },
+    {
+        "name": "Universal Studios Hollywood",
+        "description": "Famous movie-themed amusement park with thrilling rides, shows, and studio tours",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Universal_Studios_Hollywood_archway_2019.jpg/1280px-Universal_Studios_Hollywood_archway_2019.jpg"
+    },
+    {
+        "name": "Santa Monica Pier",
+        "description": "Historic pier featuring an amusement park, restaurants, and beautiful Pacific Ocean views",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Santa_Monica_Pier_2019.jpg/1280px-Santa_Monica_Pier_2019.jpg"
+    },
+    {
+        "name": "The Getty Center",
+        "description": "World-class art museum with impressive architecture and panoramic city vistas",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Getty_Center_-_Los_Angeles%2C_California.jpg/1280px-Getty_Center_-_Los_Angeles%2C_California.jpg"
+    },
+    {
+        "name": "Hollywood Walk of Fame",
+        "description": "Iconic sidewalk featuring stars honoring achievements in the entertainment industry",
+        "link_to_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hollywood_Walk_of_Fame%2C_Los_Angeles%2C_CA%2C_jjron_21.03.2012.jpg/1280px-Hollywood_Walk_of_Fame%2C_Los_Angeles%2C_CA%2C_jjron_21.03.2012.jpg"
+    }
+]
